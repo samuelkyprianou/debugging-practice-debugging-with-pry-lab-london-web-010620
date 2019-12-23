@@ -28,3 +28,5 @@ class Person
         "not a ballin candy lover"
   end
 end
+
+ballin_candy_lover
