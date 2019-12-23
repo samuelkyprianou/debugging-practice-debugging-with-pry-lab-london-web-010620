@@ -1,6 +1,6 @@
 require 'pry'
 
-class person
+class Person
   attr_accessor :name, :candy_lover
 
   def initialize(name, candy_lover)
