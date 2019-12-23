@@ -8,6 +8,7 @@ class Person
     @candy_lover = candy_lover
     binding.pry
   end
+end
 
   def tall?
     true
