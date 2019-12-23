@@ -9,7 +9,6 @@ class GasStation
   def initialize(brand, unleaded_price)
     @brand = brand
     @unleaded_price = unleaded_price
-    binding.pry
   end
 
 end
